@@ -1,0 +1,10 @@
+br\com\fiap\biblioteca\controller\UsuarioController.class
+br\com\fiap\biblioteca\dominio\RepositorioLogin.class
+br\com\fiap\biblioteca\controller\LoginController.class
+br\com\fiap\biblioteca\dominio\RepositorioUsuarios.class
+br\com\fiap\biblioteca\service\LoginService.class
+br\com\fiap\biblioteca\service\UsuarioService.class
+br\com\fiap\GreetingResource.class
+br\com\fiap\biblioteca\infra\dao\ConnectionFactory.class
+br\com\fiap\biblioteca\dominio\Login.class
+br\com\fiap\biblioteca\infra\dao\LoginDAO.class
